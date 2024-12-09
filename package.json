@@ -33,7 +33,7 @@
     "core-js": "^3.6.5",
     "file-saver": "^2.0.2",
     "inuits-vuejs-oidc": "git+https://github.com/inuits/inuits-vuejs-oidc.git",
-    "moment": "^2.29.1",
+    "moment": "^2.29.4",
     "print-js": "^1.5.0",
     "raw-loader": "^4.0.1",
     "slugify": "^1.6.1",
